@@ -8,4 +8,12 @@ public class ClassA {
 	public void orange() {
 		System.out.println("Orange");
 	}
+	
+	public void banana() {
+		System.out.println("Banana");
+	}
+	
+	public void moon() {
+		System.out.println("Moon");
+	}
 }
