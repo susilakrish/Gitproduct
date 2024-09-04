@@ -8,4 +8,12 @@ public class ClassA {
 	public void orange() {
 		System.out.println("Orange");
 	}
+
+	public void maldives() {
+		System.out.println("Maldives");
+	}
+
+	public void andaman() {
+		System.out.println("Andaman");
+	}
 }
